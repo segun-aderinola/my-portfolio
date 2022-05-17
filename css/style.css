@@ -259,7 +259,7 @@ color: #5e6576;
 .project-body {
     font-style: normal;
     font-size: 16px;
-    /* padding-top: ; */
+    padding-top: 1.5rem;
 }
 
 .bg-gray {
@@ -272,9 +272,14 @@ color: #5e6576;
     font-weight: 600;
     font-size: 0.875rem;
 }
+/* .language{
+    font-weight: 700;
+} */
 .cards-2 .language {
     font-size: 1.25rem;
     line-height: 1.5rem;
+    font-weight: 700;
+    padding-top: 1.5rem;
 }
 
 .basic-2 {
