@@ -270,11 +270,34 @@ color: #5e6576;
     margin-bottom: 0.5rem;
     color: #ef473d;
     font-weight: 600;
-    font-size: 0.875rem;
+    font-size: 1.875rem;
 }
 /* .language{
     font-weight: 700;
 } */
+
+.experience-details {
+    display: inline-block;
+    background-color: teal;
+    border-radius: 25px;
+    padding: 4px 15px;
+    font-size: 13px;
+    text-align: center;
+    color: white;
+    margin-bottom: 5px;
+}
+.content {
+    font-size: 15px;
+}
+.exptitle {
+    font-weight: bold;
+}
+.UL li {
+    padding-top: 10px;
+}
+.carousel-control{
+    background-color: #fcfafb;
+}
 .cards-2 .language {
     font-size: 1.25rem;
     line-height: 1.5rem;
@@ -368,6 +391,13 @@ color: #5e6576;
 }
 
 h2 {
+    color: #223150;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.5rem;
+    letter-spacing: -0.4px;
+}
+.h2-heading{
     color: #223150;
     font-weight: 700;
     font-size: 2rem;
